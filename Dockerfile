@@ -1,1 +1,1 @@
-FROM jfu898/hug:latest
+FROM jfu888/jsxa
