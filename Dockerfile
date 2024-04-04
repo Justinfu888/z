@@ -1,1 +1,1 @@
-FROM jfu898/hug
+FROM jfu898/hug:latest
